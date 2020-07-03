@@ -7,7 +7,7 @@ In this project, autism is detected in toddlers using Decision Tree and Random f
 Autistic Spectrum Disorder (ASD) is a neurodevelopmental condition associated with significant healthcare costs, and early diagnosis can significantly reduce these. Unfortunately, waiting times for an ASD diagnosis are lengthy and procedures are not cost effective. The economic impact of autism and the increase in the number of ASD cases across the world reveals an urgent need for the development of easily implemented and effective screening methods. Therefore, a time efficient and accessible ASD screening is imminent to help
 health professionals and inform individuals whether they should pursue formal clinical diagnosis. In this project, we will be using random decision forest on a given data set to estimate the predictive power of machine learning techniques in detecting autistic traits.
 
-## DATA SET
+## Data set
 Data type: Predictive/Descriptive: Nominal/Categorical, binary
 and continuous
 Task: Classification
@@ -35,7 +35,7 @@ DATA ATTRIBUTES:
 - If score more than 3, then there are potential ASD traits, otherwise no ASD traits are observed
 - The remaining features in the datasets are collected from the “submit” screen in the ASDTests screening app.
 
-### LIBRARIES USED
+### Python Libraries used
 - pandas: for data manipulation and analysis
 - numpy: for high level mathematical functions
 - matplotlib: for data visualization
